@@ -1,5 +1,2 @@
 # learning-git-basic
-This is a project about Git projects
-Open visual studio code
-Open command palette "Git clone"
-paste the repository link and select folder
+This repostory contains the basics of version control where I am working on understanding of the git commands and some gihub actions  
